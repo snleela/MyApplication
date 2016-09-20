@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hello Android</string>
+    <string name="type_password_label">Enter password</string>
+</resources>
